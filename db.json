@@ -1,0 +1,59 @@
+{
+  "TeamName": ["봄 플젝 벚꽃 말고"],
+  "TeamRule": [
+    "질문할 때는 상황을 설명하며 정확하게 질문하기(팀원에게 먼저 묻기)",
+    "결석 시 미리 공유하기",
+    "팀원이 모른다고 무시하지 않기",
+    "부정적인 말 하지 않기",
+    "일단 시도해 보기",
+    "성과가 있다면 아낌없이 자랑하기",
+    "아침에 눈 맞추며 인사하기(눈 피하면 커피 쏘기)",
+    "흡연 후 냄새 제거하고 오기",
+    "서로 존중하며 대화하기",
+    "식사 후 양치하기",
+    "수분 섭취 자주 하기"
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "공서연",
+      "mbti": "ESTP",
+      "hobby": ["코노", "게임(리그오브레전드)"],
+      "favorites": ["바다", "영화보기", "드라마보기"],
+      "git_address": "https://github.com/seoyeeon"
+    },
+    {
+      "id": 2,
+      "name": "권원영",
+      "mbti": "ESTJ",
+      "hobby": ["그림", "배드민턴", "노래듣기"],
+      "favorites": "박효신",
+      "git_address": "https://github.com/iamadreamer10"
+    },
+    {
+      "id": 3,
+      "name": "김현지",
+      "mbti": "ESFJ",
+      "hobby": ["유튜브 시청", "노래 듣기", "여행"],
+      "favorites": ["소울(영화)", "고양이"],
+      "git_address": "https://github.com/mendi5603"
+    },
+    {
+      "id": 4,
+      "name": "석정한",
+      "mbti": "ESTP",
+      "hobby": ["농구", "축구", "음악 듣기"],
+      "favorites": ["스포츠 분야 (특히 농구, 야구 (삼성 라이온즈)), 포켓몬"],
+      "git_address": "https://github.com/JungHan-Seok"
+    },
+    {
+      "id": 5,
+      "name": "최윤호",
+      "mbti": "ISTJ",
+      "hobby": ["야구", "맛집 탐방"],
+      "favorites": ["라멘", "포켓몬", "드라마"],
+      "git_address": "https://github.com/youknowwgit"
+    }
+  ]
+}
