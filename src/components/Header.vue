@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-sm bg-warning navbar-lightg">
+  <nav class="navbar navbar-expand-sm bg-warning navbar-light">
     <span class="navbar-brand ps-2"> 🌸 봄 플젝 벚꽃 말고 🌸</span>
     <button
       class="navbar-toggler"
