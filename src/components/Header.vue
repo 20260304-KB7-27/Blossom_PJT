@@ -24,7 +24,7 @@
           <router-link class="nav-link" to="/teamrule">팀 규칙</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/teammate">팀원 소개</router-link>
+          <router-link class="nav-link" to="/members">팀원 소개</router-link>
         </li>
       </ul>
     </div>
